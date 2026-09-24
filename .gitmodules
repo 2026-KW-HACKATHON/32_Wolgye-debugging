@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:2026-KW-HACKATHON/32_Wolgye-debugging-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:2026-KW-HACKATHON/32_Wolgye-debugging-frontend.git
